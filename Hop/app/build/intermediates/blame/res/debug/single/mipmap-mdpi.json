@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shred13/AndroidStudioProjects/Hop/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/shred13/AndroidStudioProjects/Hop/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shred13/AndroidStudioProjects/Hop/app/build/intermediates/res/merged/debug/mipmap-mdpi/circle.png",
+        "source": "/Users/shred13/AndroidStudioProjects/Hop/app/src/main/res/mipmap-mdpi/circle.png"
+    },
+    {
+        "merged": "/Users/shred13/AndroidStudioProjects/Hop/app/build/intermediates/res/merged/debug/mipmap-mdpi/arrowleft.png",
+        "source": "/Users/shred13/AndroidStudioProjects/Hop/app/src/main/res/mipmap-mdpi/arrowleft.png"
+    },
+    {
+        "merged": "/Users/shred13/AndroidStudioProjects/Hop/app/build/intermediates/res/merged/debug/mipmap-mdpi/arrowright.png",
+        "source": "/Users/shred13/AndroidStudioProjects/Hop/app/src/main/res/mipmap-mdpi/arrowright.png"
+    }
+]
