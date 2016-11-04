@@ -26,7 +26,8 @@ int counter=0;
             ImageView circle = (ImageView) findViewById(R.id.imageView);
             if (counter =% 1) {
                 circle.setBackgroundColor(Color.BLUE);
-                //counter++;
+                counter++;
+                //some random comment
 
             }
         }
